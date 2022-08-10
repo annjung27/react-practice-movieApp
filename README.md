@@ -1,3 +1,4 @@
 # React Practice - Movie App
 
-url: https://annjung27.github.io/react-practice-movieapp
+
+<a href="https://annjung27.github.io/react-practice-movieapp" target=_blank>View Website</a>
